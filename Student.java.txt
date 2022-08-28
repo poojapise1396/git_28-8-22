@@ -1,4 +1,4 @@
 public clas test
 {
-
+     c=a+b;
 }
